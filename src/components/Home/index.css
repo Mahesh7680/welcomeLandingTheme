@@ -1,0 +1,18 @@
+.box-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 40vh;
+  width: 40%;
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  border-radius: 30px;
+  color: #f8fafc;
+}
+
+button {
+  border: 0;
+  border-radius: 5px;
+  background-color: #f8fafc;
+  padding: 10px;
+}
